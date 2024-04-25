@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891594229541",
+    "project_id": "scar-fbdf6",
+    "storage_bucket": "scar-fbdf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891594229541:android:a7bfbb5afcca47c497fccc",
+        "android_client_info": {
+          "package_name": "com.example.scar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJDaiLa-bn3flZAJeQ9QJFCA_vN4lFVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
